@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Clientes>
+    <Cliente id="1">
+        <nombre>Juan Pérez</nombre>
+        <edad>35</edad>
+        <telefono>123456789</telefono>
+    </Cliente>
+    <Cliente id="2">
+        <nombre>Ana López</nombre>
+        <edad>28</edad>
+        <telefono>987654321</telefono>
+    </Cliente>
+    <Cliente id="3">
+        <nombre>Pedro Martínez</nombre>
+        <edad>42</edad>
+        <telefono>654321987</telefono>
+    </Cliente>
+    <Cliente id="4">
+        <nombre>Laura Gómez</nombre>
+        <edad>30</edad>
+        <telefono>456789123</telefono>
+    </Cliente>
+    <Cliente id="5">
+        <nombre>Carlos Ruiz</nombre>
+        <edad>25</edad>
+        <telefono>789123456</telefono>
+    </Cliente>
+</Clientes>

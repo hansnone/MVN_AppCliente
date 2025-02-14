@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+    <cliente id="1">
+        <nombre>Juan Pérez</nombre>
+        <edad>35</edad>
+        <telefono>123456789</telefono>
+        <ciudad>Madrid</ciudad>
+    </cliente>
+    <cliente id="2">
+        <nombre>Ana López</nombre>
+        <edad>28</edad>
+        <telefono>987654321</telefono>
+        <ciudad>Barcelona</ciudad>
+    </cliente>
+    <cliente id="3">
+        <nombre>Pedro Martínez</nombre>
+        <edad>42</edad>
+        <telefono>654321987</telefono>
+        <ciudad>Valencia</ciudad>
+    </cliente>
+    <cliente id="4">
+        <nombre>Laura Gómez</nombre>
+        <edad>30</edad>
+        <telefono>456789123</telefono>
+        <ciudad>Sevilla</ciudad>
+    </cliente>
+    <cliente id="5">
+        <nombre>Carlos Ruiz</nombre>
+        <edad>25</edad>
+        <telefono>789123456</telefono>
+        <ciudad>Bilbao</ciudad>
+    </cliente>
+</clientes>
